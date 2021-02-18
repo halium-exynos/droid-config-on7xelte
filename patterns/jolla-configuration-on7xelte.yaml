@@ -1,0 +1,6 @@
+Description: Pattern with packages for on7xelte configurations
+Name: jolla-configuration-on7xelte
+Requires:
+- patterns-sailfish-device-configuration-on7xelte
+
+Summary: Jolla Configuration on7xelte
